@@ -14,7 +14,7 @@
     "lucide-react": "catalog:",
     "motion": "^12.23.16",
     "motion-number": "^1.0.0",
-    "next": "catalog:",
+    "next": "15.5.8",
     "radix-ui": "^1.4.3",
     "react": "catalog:react19",
     "react-day-picker": "catalog:",
